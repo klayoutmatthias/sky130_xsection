@@ -27,9 +27,9 @@ This work is preliminary. Here is a list of open topics:
 
 ## Links
 
-* XSection project: [https://github.com/klayoutmatthias/xsection]
-* Skywater 130 PDK: [https://github.com/google/skywater-pdk]
-* KLayout PCells for Skywater 130: [https://github.com/mabrains/sky130_klayout_pdk]
+* XSection project: https://github.com/klayoutmatthias/xsection
+* Skywater 130 PDK: https://github.com/google/skywater-pdk
+* KLayout PCells for Skywater 130: https://github.com/mabrains/sky130_klayout_pdk
 
 
 
